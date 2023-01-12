@@ -80,36 +80,36 @@ Terakhir membuat file main.py yang berisi code program untuk menyatukan semua fu
 - while True Merupakan kondisi perulangan atau looping, di mana kode program akan dijalankan berulang kali sampai mendapatkan kondisi berhenti untuk mengulangnya.
 - untuk memembuat perulangan pada pilihan menu yang akan tampil sebagai pilihan user. saya menggunakan fungsi
 
-if
-elif
-else
+    if
+    elif
+    else
 
 fungsi if-else untuk mengambil kondisi tertentu dan memeriksa apakah kondisinya benar atau salah. Jika kondisinya benar, maka pernyataan if mengeksekusi blok kode tertentu. Jika kondisinya salah, maka pernyataan else mengeksekusi blok kode yang berbeda.
 
 # 5.HASIL OUTPUT
 
-### Tambah Data
+### 1. Tambah Data
 ![Screenshot (1)](https://user-images.githubusercontent.com/115903342/212022803-eff96508-559e-46d5-9be2-e9d940bc70d2.png)
 
 ![Screenshot (2)](https://user-images.githubusercontent.com/115903342/212023104-22b31377-93d3-4b37-bad6-a248852c4a9c.png)
 
-### Ubah Data
+### 2. Ubah Data
 ![Screenshot (3)](https://user-images.githubusercontent.com/115903342/212023204-310f5254-cf3d-45c8-9d2c-f895d9426354.png)
 
 ![Screenshot (4)](https://user-images.githubusercontent.com/115903342/212023509-da586942-07b1-42b7-8138-5d1d1e0e0141.png)
 
 ![Screenshot (5)](https://user-images.githubusercontent.com/115903342/212023708-becf1238-c561-4052-924e-76101b14bef3.png)
 
-### Cari Data
+### 3. Cari Data
 ![Screenshot (6)](https://user-images.githubusercontent.com/115903342/212023772-8831403b-b4e2-451b-b020-27775e5ed471.png)
 
-### Menampilkan Semua Data
+### 4. Menampilkan Semua Data
 ![Screenshot (7)](https://user-images.githubusercontent.com/115903342/212023990-29e0e187-5edf-4b3b-93c9-78f52e12e978.png)
 
-### Hapus Data
+### 5. Hapus Data
 ![Screenshot (8)](https://user-images.githubusercontent.com/115903342/212024166-571cb098-d874-4db4-bf6b-d5279566aeef.png)
 
-### Keluar Program
+### 6. Keluar Program
 ![Screenshot (9)](https://user-images.githubusercontent.com/115903342/212024241-5b4b4516-d97a-4892-907f-974bf4f3f8cb.png)
 
 
