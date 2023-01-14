@@ -9,6 +9,7 @@ NIM     : 312210429
 Kelas   : TI.22.B2
 
 ## Link Youtube
+https://youtu.be/_JbOQCTLkDE
 
 ## Ketentuan Program
 Buatlah package dan modul dengan struktur seperti
